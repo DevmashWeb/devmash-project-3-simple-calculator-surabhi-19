@@ -1,0 +1,121 @@
+html{
+	text-align: center;
+}
+h1{
+	font-size: 45px;
+	font-style: sans-serif;
+}
+body{
+	background-color: #777;
+}
+.container{
+	margin: 50px auto;
+	background-color: #E5E4E2;
+	height: 375px;
+	width: 250px;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+.equal{
+	text-align: center;
+}
+
+.num{
+	background:#000;
+    color:#fff;
+    font-size:26px;
+    cursor:pointer;
+    outline:none;
+    border-bottom:3px solid #333;
+    width:45px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+.op{
+	background:#151B54;
+    color:#fff;
+    font-size:26px;
+    cursor:pointer;
+    outline:none;
+    border-bottom:3px solid #333;
+    width:45px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+.dot{
+	background:#000;
+    color:#fff;
+    font-size:26px;
+    cursor:pointer;
+    outline:none;
+    border-bottom:3px solid #333;
+    width:45px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+.zero{
+	background:#000;
+    color:#fff;
+    font-size:26px;
+    cursor:pointer;
+    outline:none;
+    border-bottom:3px solid #333;
+    width:45px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+#cancel{
+	background:red;
+    color:#fff;
+    font-size:26px;
+    cursor:pointer;
+    outline:none;
+    border-bottom:3px solid #333;
+    width:45px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+#equal{
+	background:green;
+    color:#fff;
+    font-size:26px;
+    cursor:pointer;
+    outline:none;
+    border-bottom:3px solid #333;
+    width:45px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+#answer{
+	display: block;
+	background-color: white;
+	text-decoration-color: black;
+	font-family: serif;
+	width: 150px;
+	height: 25px;
+	margin: 10px auto;
+	text-align: right;
+	border-radius: 5px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	font-size: 25px;
+	color: black;
+}
+
+.keys{
+	background:#000;
+    color:#fff;
+    font-size:26px;
+    cursor:pointer;
+    outline:none;
+    border-bottom:3px solid #333;
+}
